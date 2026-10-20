@@ -1,0 +1,26 @@
+﻿VELO 1.3.3 - download manager for Windows 10/11 (64-bit)
+=========================================================
+
+INSTALL
+1. Double-click "Velo Setup 1.3.3.exe".
+2. Windows may show "Windows protected your PC" (the app isn't code-signed).
+   Click "More info", then "Run anyway".
+3. Follow the installer. Velo opens when it's done. No admin rights or other
+   software are needed.
+
+CONNECT YOUR BROWSER (once, about a minute)
+So that clicking a download in your browser opens Velo instead:
+1. In Velo, click "Set up" on the banner (or Settings > Browser > your browser > Set up).
+2. Follow the 3 steps in that window:
+   - open the browser's extensions page,
+   - turn on "Developer mode",
+   - click "Load unpacked" and paste the location Velo copies for you.
+3. Velo shows "Connected" when it's done.
+Works with Brave, Chrome, Edge, Opera, Vivaldi and Firefox.
+
+GOOD TO KNOW
+- Downloads go to your Downloads folder, sorted into Video, Music, Documents...
+- Hold Alt while clicking a link to let the browser download it instead.
+- Video sites (YouTube etc.): Velo fetches its free video tools (~110 MB) the
+  first time you use that feature.
+- Uninstall from Windows Settings > Apps, like any other app.
